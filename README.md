@@ -8,7 +8,7 @@ Bu repo ile Starknet geliştirme (dev) ortamınızı kurabilecek ve cairo 1.0 il
 4. [Akıllı kontratlar](./chapters/4.%20Akıllı%20kontratlar.md)
 
 # Kaynaklar
-- [Setting Up a Cairo 1 Dev Environment from David Barreto](https://docs.google.com/document/d/e/2PACX-1vQO7MSt_JINcGItO4-aIH-FQE9xN_Ssa6zQXC93f0e7W5g7ECny57w3E2M9-fdTdU5Ne1R-Kt9g8_EB/pub)*
-- [Getting Started with Starknet from Staknet Book](https://book.starknet.io/chapter_1/index.html)*
-- Huge thanks for Gnana! [Here](https://gist.github.com/gyan0890) you can find more codes from her. ([Buradan](https://gist.github.com/gyan0890) daha fazla koda ulasabilirsiniz.)*
+- *Setting Up a Cairo 1 Dev Environment from David Barreto. Link is [here](https://docs.google.com/document/d/e/2PACX-1vQO7MSt_JINcGItO4-aIH-FQE9xN_Ssa6zQXC93f0e7W5g7ECny57w3E2M9-fdTdU5Ne1R-Kt9g8_EB/pub)*
+- *Getting Started with Starknet from Staknet Book. Link is [here](https://book.starknet.io/chapter_1/index.html)*
+- *Huge thanks for Gnana! [Here](https://gist.github.com/gyan0890) you can find more codes from her. ([Buradan](https://gist.github.com/gyan0890) daha fazla koda ulasabilirsiniz.)*
 
